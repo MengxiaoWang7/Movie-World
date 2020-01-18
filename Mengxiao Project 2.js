@@ -54,3 +54,5 @@ cherryApp.init = function(){
 $(function(){
     cherryApp.init();
 });
+
+console.log('hi')
