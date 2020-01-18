@@ -55,4 +55,3 @@ $(function(){
     cherryApp.init();
 });
 
-console.log('hi')
